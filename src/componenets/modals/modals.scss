@@ -1,0 +1,44 @@
+@import "../../style/config";
+
+.NavMobile__button {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 110;
+
+  width: 50%;
+  height: 100vh;
+
+  padding-top: 1rem;
+  background: $color-white;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  // #### here I close the mobile version not to interfer with
+  // the wide desktop versions
+  @media only screen and (min-width: 770px) {
+    display: none;
+  }
+
+  @media only screen and (max-width: 450px) {
+    width: 70%;
+  }
+
+  ul {
+    list-style: none;
+    width: 100%;
+  }
+
+  .NavMobile__close {
+    transform: translate(0, -20px);
+    p {
+      font-size: 15px;
+      text-transform: uppercase;
+
+      text-align: center;
+      padding: 5px 0;
+      background: $color-light-blue-1;
+    }
+  }
+}
