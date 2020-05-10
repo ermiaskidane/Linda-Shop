@@ -287,7 +287,7 @@
 
         position: absolute;
         top: -95px;
-        left: 15%;
+        left: 17%;
         flex-direction: row;
         flex-wrap: wrap;
       }
@@ -295,7 +295,7 @@
       @media only screen and (max-width: 770px) {
         top: -65px;
       }
-      @media only screen and (max-width: 354px) {
+      @media only screen and (max-width: 360px) {
         top: -95px;
       }
     }
