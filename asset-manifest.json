@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Linda-Shop/static/css/main.43d097b2.chunk.css",
+    "main.js": "/Linda-Shop/static/js/main.48bb1145.chunk.js",
+    "main.js.map": "/Linda-Shop/static/js/main.48bb1145.chunk.js.map",
+    "runtime-main.js": "/Linda-Shop/static/js/runtime-main.fd4f8fe1.js",
+    "runtime-main.js.map": "/Linda-Shop/static/js/runtime-main.fd4f8fe1.js.map",
+    "static/js/2.b3f78a7b.chunk.js": "/Linda-Shop/static/js/2.b3f78a7b.chunk.js",
+    "static/js/2.b3f78a7b.chunk.js.map": "/Linda-Shop/static/js/2.b3f78a7b.chunk.js.map",
+    "index.html": "/Linda-Shop/index.html",
+    "precache-manifest.e75ed311434b3e182e6ad9b50dfe89fa.js": "/Linda-Shop/precache-manifest.e75ed311434b3e182e6ad9b50dfe89fa.js",
+    "service-worker.js": "/Linda-Shop/service-worker.js",
+    "static/css/main.43d097b2.chunk.css.map": "/Linda-Shop/static/css/main.43d097b2.chunk.css.map",
+    "static/js/2.b3f78a7b.chunk.js.LICENSE.txt": "/Linda-Shop/static/js/2.b3f78a7b.chunk.js.LICENSE.txt",
+    "static/media/blog-1.jpg": "/Linda-Shop/static/media/blog-1.d83f6a6d.jpg",
+    "static/media/blog-2.jpg": "/Linda-Shop/static/media/blog-2.2d121697.jpg",
+    "static/media/download.webp": "/Linda-Shop/static/media/download.9db8a424.webp",
+    "static/media/fashion-1.jpg": "/Linda-Shop/static/media/fashion-1.05103b09.jpg",
+    "static/media/fashion-10.webp": "/Linda-Shop/static/media/fashion-10.686d3134.webp",
+    "static/media/fashion-14.webp": "/Linda-Shop/static/media/fashion-14.ef89b620.webp",
+    "static/media/fashion-17.webp": "/Linda-Shop/static/media/fashion-17.df2845f2.webp",
+    "static/media/fashion-18.webp": "/Linda-Shop/static/media/fashion-18.e76eae40.webp",
+    "static/media/fashion-20.webp": "/Linda-Shop/static/media/fashion-20.4b0292da.webp",
+    "static/media/fashion-3.jpg": "/Linda-Shop/static/media/fashion-3.619456d2.jpg",
+    "static/media/fashion-4.jpg": "/Linda-Shop/static/media/fashion-4.19bdec4e.jpg",
+    "static/media/fashion-5.jpg": "/Linda-Shop/static/media/fashion-5.9a80edd0.jpg",
+    "static/media/fashion-6.jpg": "/Linda-Shop/static/media/fashion-6.fb05698f.jpg",
+    "static/media/fashion-9.webp": "/Linda-Shop/static/media/fashion-9.2837ea0a.webp",
+    "static/media/person (1).jpg": "/Linda-Shop/static/media/person (1).41159285.jpg",
+    "static/media/product.scss": "/Linda-Shop/static/media/tamara-bellis-10.ad7286c4.jpg",
+    "static/media/sprite.svg": "/Linda-Shop/static/media/sprite.d6916c74.svg",
+    "static/media/tamara-bellis-6.jpg": "/Linda-Shop/static/media/tamara-bellis-6.af597c59.jpg",
+    "static/media/tamara-bellis-9.jpg": "/Linda-Shop/static/media/tamara-bellis-9.4b9e38a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4f8fe1.js",
+    "static/js/2.b3f78a7b.chunk.js",
+    "static/css/main.43d097b2.chunk.css",
+    "static/js/main.48bb1145.chunk.js"
+  ]
+}
