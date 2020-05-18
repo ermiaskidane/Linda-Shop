@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "504f8effa2d3dfba0bf56b60454a3179",
+    "revision": "e85248fb09ad2e825550316582e840bf",
     "url": "/Linda-Shop/index.html"
   },
   {
-    "revision": "ec50f131ee09c6064f3f",
+    "revision": "b4b2034e549cabda2921",
     "url": "/Linda-Shop/static/css/main.43d097b2.chunk.css"
   },
   {
-    "revision": "a80dbbf4d1efaf73a322",
-    "url": "/Linda-Shop/static/js/2.b3f78a7b.chunk.js"
+    "revision": "dc7c1e08b515a862bda1",
+    "url": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Linda-Shop/static/js/2.b3f78a7b.chunk.js.LICENSE.txt"
+    "url": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec50f131ee09c6064f3f",
-    "url": "/Linda-Shop/static/js/main.48bb1145.chunk.js"
+    "revision": "b4b2034e549cabda2921",
+    "url": "/Linda-Shop/static/js/main.915f876c.chunk.js"
   },
   {
     "revision": "2e31bc6c5c678fa3efcb",
