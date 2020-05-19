@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e85248fb09ad2e825550316582e840bf",
+    "revision": "8f64c98bb573a3b6dc6757c2c1b85b1d",
     "url": "/Linda-Shop/index.html"
   },
   {
-    "revision": "b4b2034e549cabda2921",
-    "url": "/Linda-Shop/static/css/main.43d097b2.chunk.css"
+    "revision": "e7419833d933743e7a85",
+    "url": "/Linda-Shop/static/css/main.c1639917.chunk.css"
   },
   {
     "revision": "dc7c1e08b515a862bda1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4b2034e549cabda2921",
-    "url": "/Linda-Shop/static/js/main.915f876c.chunk.js"
+    "revision": "e7419833d933743e7a85",
+    "url": "/Linda-Shop/static/js/main.a4573109.chunk.js"
   },
   {
     "revision": "2e31bc6c5c678fa3efcb",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Linda-Shop/static/media/snow.ca3c4032.jpg"
   },
   {
-    "revision": "d6916c7418f0dd07a7d693b510417d6b",
-    "url": "/Linda-Shop/static/media/sprite.d6916c74.svg"
+    "revision": "0101f0d412fcaba53c7d531499dd3659",
+    "url": "/Linda-Shop/static/media/sprite.0101f0d4.svg"
   },
   {
     "revision": "ad7286c48906ed2a8b7d18eeb804e141",

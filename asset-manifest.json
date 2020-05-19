@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Linda-Shop/static/css/main.43d097b2.chunk.css",
-    "main.js": "/Linda-Shop/static/js/main.915f876c.chunk.js",
-    "main.js.map": "/Linda-Shop/static/js/main.915f876c.chunk.js.map",
+    "main.css": "/Linda-Shop/static/css/main.c1639917.chunk.css",
+    "main.js": "/Linda-Shop/static/js/main.a4573109.chunk.js",
+    "main.js.map": "/Linda-Shop/static/js/main.a4573109.chunk.js.map",
     "runtime-main.js": "/Linda-Shop/static/js/runtime-main.fd4f8fe1.js",
     "runtime-main.js.map": "/Linda-Shop/static/js/runtime-main.fd4f8fe1.js.map",
     "static/js/2.8ec3f7e8.chunk.js": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js",
     "static/js/2.8ec3f7e8.chunk.js.map": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js.map",
     "index.html": "/Linda-Shop/index.html",
-    "precache-manifest.98f299a1e81cfe5055b9d67db37e1db2.js": "/Linda-Shop/precache-manifest.98f299a1e81cfe5055b9d67db37e1db2.js",
+    "precache-manifest.39bc64288555155cd2fefc57626aa5c1.js": "/Linda-Shop/precache-manifest.39bc64288555155cd2fefc57626aa5c1.js",
     "service-worker.js": "/Linda-Shop/service-worker.js",
-    "static/css/main.43d097b2.chunk.css.map": "/Linda-Shop/static/css/main.43d097b2.chunk.css.map",
+    "static/css/main.c1639917.chunk.css.map": "/Linda-Shop/static/css/main.c1639917.chunk.css.map",
     "static/js/2.8ec3f7e8.chunk.js.LICENSE.txt": "/Linda-Shop/static/js/2.8ec3f7e8.chunk.js.LICENSE.txt",
     "static/media/blog-1.jpg": "/Linda-Shop/static/media/blog-1.d83f6a6d.jpg",
     "static/media/blog-2.jpg": "/Linda-Shop/static/media/blog-2.2d121697.jpg",
@@ -28,14 +28,14 @@
     "static/media/fashion-9.webp": "/Linda-Shop/static/media/fashion-9.2837ea0a.webp",
     "static/media/person (1).jpg": "/Linda-Shop/static/media/person (1).41159285.jpg",
     "static/media/product.scss": "/Linda-Shop/static/media/tamara-bellis-10.ad7286c4.jpg",
-    "static/media/sprite.svg": "/Linda-Shop/static/media/sprite.d6916c74.svg",
+    "static/media/sprite.svg": "/Linda-Shop/static/media/sprite.0101f0d4.svg",
     "static/media/tamara-bellis-6.jpg": "/Linda-Shop/static/media/tamara-bellis-6.af597c59.jpg",
     "static/media/tamara-bellis-9.jpg": "/Linda-Shop/static/media/tamara-bellis-9.4b9e38a2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fd4f8fe1.js",
     "static/js/2.8ec3f7e8.chunk.js",
-    "static/css/main.43d097b2.chunk.css",
-    "static/js/main.915f876c.chunk.js"
+    "static/css/main.c1639917.chunk.css",
+    "static/js/main.a4573109.chunk.js"
   ]
 }
