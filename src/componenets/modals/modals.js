@@ -1,4 +1,5 @@
 import React from "react";
+
 import "./modals.scss";
 import Sprite from "../../assets/images/sprite.svg";
 
